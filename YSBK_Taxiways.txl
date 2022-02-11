@@ -13,8 +13,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9221954</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.92219</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -28,8 +28,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.9219971</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -339,7 +339,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>G1</Name>
+    <Name>A3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -400,49 +400,6 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.92344</Latitude>
-          <Longitude>150.98259</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.9232178</Latitude>
-          <Longitude>150.983215</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-    </TaxiPts>
-    <Id>26526</Id>
-    <Type>Taxi</Type>
-    <SurfaceType>Asphalt</SurfaceType>
-    <Width>18.288</Width>
-    <WeightLimit>500000</WeightLimit>
-    <Name />
-    <UserModified xsi:nil="true" />
-    <Airport_Id>1641</Airport_Id>
-    <Airport_ICAO>YSBK</Airport_ICAO>
-  </SerializablePath>
-  <SerializablePath>
-    <TaxiPts>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
           <Latitude>-33.917038</Latitude>
           <Longitude>150.9844</Longitude>
         </Position>
@@ -468,7 +425,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -511,7 +468,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -554,7 +511,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -597,7 +554,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -640,7 +597,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>H2</Name>
+    <Name>H</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -683,7 +640,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>H2</Name>
+    <Name>H</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -726,7 +683,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W2</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -769,7 +726,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W4</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -812,7 +769,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W4</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -855,7 +812,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W4</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -916,94 +873,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9232178</Latitude>
-          <Longitude>150.983215</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.92173</Latitude>
-          <Longitude>150.983215</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-    </TaxiPts>
-    <Id>26542</Id>
-    <Type>Taxi</Type>
-    <SurfaceType>Asphalt</SurfaceType>
-    <Width>18.288</Width>
-    <WeightLimit>500000</WeightLimit>
-    <Name>W5</Name>
-    <UserModified xsi:nil="true" />
-    <Airport_Id>1641</Airport_Id>
-    <Airport_ICAO>YSBK</Airport_ICAO>
-  </SerializablePath>
-  <SerializablePath>
-    <TaxiPts>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.9232178</Latitude>
-          <Longitude>150.983215</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.92338</Latitude>
-          <Longitude>150.9832</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-    </TaxiPts>
-    <Id>26543</Id>
-    <Type>Taxi</Type>
-    <SurfaceType>Asphalt</SurfaceType>
-    <Width>18.288</Width>
-    <WeightLimit>500000</WeightLimit>
-    <Name>W6</Name>
-    <UserModified xsi:nil="true" />
-    <Airport_Id>1641</Airport_Id>
-    <Airport_ICAO>YSBK</Airport_ICAO>
-  </SerializablePath>
-  <SerializablePath>
-    <TaxiPts>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.92338</Latitude>
-          <Longitude>150.9832</Longitude>
+          <Latitude>-33.92344</Latitude>
+          <Longitude>150.98259</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -1018,16 +889,16 @@
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
           <Latitude>-33.9234467</Latitude>
-          <Longitude>150.983047</Longitude>
+          <Longitude>150.983215</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
-    <Id>26544</Id>
+    <Id>26543</Id>
     <Type>Taxi</Type>
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W6</Name>
+    <Name>G</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1070,7 +941,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q1</Name>
+    <Name>B1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1113,7 +984,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J6</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1131,8 +1002,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.91954</Latitude>
-          <Longitude>150.9869</Longitude>
+          <Latitude>-33.9194527</Latitude>
+          <Longitude>150.986923</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -1156,7 +1027,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J1</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1189,8 +1060,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9190178</Latitude>
-          <Longitude>150.986908</Longitude>
+          <Latitude>-33.91806</Latitude>
+          <Longitude>150.986938</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -1199,7 +1070,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J1</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1242,7 +1113,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R2</Name>
+    <Name>B6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1285,7 +1156,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L6</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1328,7 +1199,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L5</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1371,7 +1242,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L4</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1414,7 +1285,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L3</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1457,7 +1328,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M7</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1500,7 +1371,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S4</Name>
+    <Name>B5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1543,7 +1414,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S4</Name>
+    <Name>B5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1586,7 +1457,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L7</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1629,7 +1500,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K7</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1672,7 +1543,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K6</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1715,7 +1586,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1758,7 +1629,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1801,7 +1672,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1844,7 +1715,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1887,7 +1758,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1930,7 +1801,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -1973,7 +1844,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>D2</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2016,7 +1887,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B3</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2059,7 +1930,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K4</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2092,8 +1963,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.991318</Longitude>
+          <Latitude>-33.9218521</Latitude>
+          <Longitude>150.991226</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -2102,7 +1973,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K4</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2145,7 +2016,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K3</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2178,8 +2049,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.91954</Latitude>
-          <Longitude>150.9869</Longitude>
+          <Latitude>-33.9194527</Latitude>
+          <Longitude>150.986923</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -2188,7 +2059,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K2</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2231,7 +2102,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R1</Name>
+    <Name>A5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2274,7 +2145,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R1</Name>
+    <Name>A5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2317,7 +2188,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K1</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2360,7 +2231,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K1</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2403,7 +2274,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K1</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2421,8 +2292,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9221954</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.92219</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -2446,7 +2317,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L1</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2489,7 +2360,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L1</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2550,8 +2421,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.92338</Latitude>
-          <Longitude>150.9832</Longitude>
+          <Latitude>-33.9234467</Latitude>
+          <Longitude>150.983215</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -2661,7 +2532,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A5</Name>
+    <Name>A8</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2704,7 +2575,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A5</Name>
+    <Name>A8</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2747,7 +2618,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>G2</Name>
+    <Name>A3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2790,7 +2661,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>G2</Name>
+    <Name>A3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2833,7 +2704,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2857,49 +2728,6 @@
       </SerializableTaxiPt>
       <SerializableTaxiPt>
         <Type>Normal</Type>
-        <Reverse>true</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.91835</Latitude>
-          <Longitude>150.984573</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-    </TaxiPts>
-    <Id>26602</Id>
-    <Type>Taxi</Type>
-    <SurfaceType>Asphalt</SurfaceType>
-    <Width>18.288</Width>
-    <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
-    <UserModified xsi:nil="true" />
-    <Airport_Id>1641</Airport_Id>
-    <Airport_ICAO>YSBK</Airport_ICAO>
-  </SerializablePath>
-  <SerializablePath>
-    <TaxiPts>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>true</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.91835</Latitude>
-          <Longitude>150.984573</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
         <Reverse>false</Reverse>
         <Radius xsi:nil="true" />
         <Heading xsi:nil="true" />
@@ -2919,7 +2747,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -2962,7 +2790,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3005,7 +2833,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J5</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3048,7 +2876,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J5</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3091,7 +2919,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J4</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3134,7 +2962,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J4</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3177,7 +3005,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J4</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3220,7 +3048,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J3</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3263,7 +3091,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J3</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3306,7 +3134,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J3</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3349,7 +3177,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J2</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3367,8 +3195,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.91954</Latitude>
-          <Longitude>150.9869</Longitude>
+          <Latitude>-33.9194527</Latitude>
+          <Longitude>150.986923</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -3392,7 +3220,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>J2</Name>
+    <Name>C</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3435,7 +3263,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L2</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3453,8 +3281,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9221954</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.92219</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -3478,7 +3306,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L2</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3521,7 +3349,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M6</Name>
+    <Name>B3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3564,7 +3392,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M6</Name>
+    <Name>B3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3607,7 +3435,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M5</Name>
+    <Name>B3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3650,7 +3478,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M5</Name>
+    <Name>B3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3693,7 +3521,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M5</Name>
+    <Name>B3</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3711,8 +3539,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.991318</Longitude>
+          <Latitude>-33.9218521</Latitude>
+          <Longitude>150.991226</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -3736,7 +3564,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M3</Name>
+    <Name>A4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3779,7 +3607,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M3</Name>
+    <Name>A4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3822,7 +3650,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M4</Name>
+    <Name>A4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3865,7 +3693,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M4</Name>
+    <Name>A4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3908,7 +3736,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M4</Name>
+    <Name>A4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3951,7 +3779,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T1</Name>
+    <Name>A6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -3994,7 +3822,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T1</Name>
+    <Name>A6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4037,7 +3865,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T2</Name>
+    <Name>A6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4080,7 +3908,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T2</Name>
+    <Name>A6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4123,7 +3951,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T2</Name>
+    <Name>A6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4166,7 +3994,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T3</Name>
+    <Name>B4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4209,7 +4037,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T3</Name>
+    <Name>B4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4252,7 +4080,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T3</Name>
+    <Name>B4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4295,7 +4123,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T4</Name>
+    <Name>B4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4338,7 +4166,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>T4</Name>
+    <Name>B4</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4381,7 +4209,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S1</Name>
+    <Name>A7</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4424,7 +4252,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S1</Name>
+    <Name>A7</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4467,7 +4295,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S2</Name>
+    <Name>A7</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4510,7 +4338,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S2</Name>
+    <Name>A7</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4553,7 +4381,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S2</Name>
+    <Name>A7</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4596,7 +4424,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S3</Name>
+    <Name>B5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4639,7 +4467,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S3</Name>
+    <Name>B5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4682,7 +4510,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>S3</Name>
+    <Name>B5</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4768,7 +4596,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K5</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4811,7 +4639,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K5</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -4958,8 +4786,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9221954</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.92219</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -6119,8 +5947,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9232178</Latitude>
-          <Longitude>150.983215</Longitude>
+          <Latitude>-33.92344</Latitude>
+          <Longitude>150.98259</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -7047,7 +6875,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A1</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7065,8 +6893,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9170761</Latitude>
-          <Longitude>150.983337</Longitude>
+          <Latitude>-33.9170265</Latitude>
+          <Longitude>150.98349</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -7090,7 +6918,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W3</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7133,7 +6961,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W3</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7176,7 +7004,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>V2</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7219,7 +7047,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>N</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7262,7 +7090,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B1</Name>
+    <Name>N2</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7305,7 +7133,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B1</Name>
+    <Name>N2</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7348,7 +7176,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>D1</Name>
+    <Name>N1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7391,7 +7219,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>D1</Name>
+    <Name>N1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7434,7 +7262,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>D1</Name>
+    <Name>N1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7477,7 +7305,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A4</Name>
+    <Name>P</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7495,8 +7323,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.991318</Longitude>
+          <Latitude>-33.9218521</Latitude>
+          <Longitude>150.991226</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -7520,7 +7348,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>M2</Name>
+    <Name>M</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -7649,7 +7477,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>X</Name>
+    <Name>M1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -8835,7 +8663,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q1</Name>
+    <Name>B1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -8921,7 +8749,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9007,7 +8835,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W4</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9040,8 +8868,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9170761</Latitude>
-          <Longitude>150.983337</Longitude>
+          <Latitude>-33.9170265</Latitude>
+          <Longitude>150.98349</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -9050,7 +8878,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W2</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9093,7 +8921,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W3</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9179,7 +9007,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W3</Name>
+    <Name>E</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9222,7 +9050,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9265,7 +9093,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9308,7 +9136,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9374,7 +9202,7 @@
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
-        <Type>Hold_Short</Type>
+        <Type>Normal</Type>
         <Reverse>false</Reverse>
         <Radius xsi:nil="true" />
         <Heading xsi:nil="true" />
@@ -9394,7 +9222,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9412,8 +9240,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.98497</Longitude>
+          <Latitude>-33.9219971</Latitude>
+          <Longitude>150.984955</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -9531,7 +9359,7 @@
   <SerializablePath>
     <TaxiPts>
       <SerializableTaxiPt>
-        <Type>Hold_Short</Type>
+        <Type>Normal</Type>
         <Reverse>false</Reverse>
         <Radius xsi:nil="true" />
         <Heading xsi:nil="true" />
@@ -9566,7 +9394,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>Q2</Name>
+    <Name>A1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9609,7 +9437,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>E</Name>
+    <Name>J</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9627,8 +9455,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9220047</Latitude>
-          <Longitude>150.991318</Longitude>
+          <Latitude>-33.9218521</Latitude>
+          <Longitude>150.991226</Longitude>
         </Position>
       </SerializableTaxiPt>
       <SerializableTaxiPt>
@@ -9652,7 +9480,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K3</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9695,7 +9523,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9738,7 +9566,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9781,7 +9609,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9824,7 +9652,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>L</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9857,8 +9685,8 @@
         <Airport_Id>1641</Airport_Id>
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
-          <Latitude>-33.9198341</Latitude>
-          <Longitude>150.995926</Longitude>
+          <Latitude>-33.9194527</Latitude>
+          <Longitude>150.995575</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -9867,7 +9695,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>P</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9910,7 +9738,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9953,7 +9781,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -9996,7 +9824,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A3</Name>
+    <Name>P</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10039,7 +9867,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10082,7 +9910,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10125,7 +9953,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10168,7 +9996,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10211,7 +10039,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>22.86</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>B2</Name>
+    <Name>N2</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10245,7 +10073,7 @@
         <Airport_ICAO>YSBK</Airport_ICAO>
         <Position>
           <Latitude>-33.9234467</Latitude>
-          <Longitude>150.983047</Longitude>
+          <Longitude>150.983215</Longitude>
         </Position>
       </SerializableTaxiPt>
     </TaxiPts>
@@ -10254,7 +10082,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>W6</Name>
+    <Name>G1</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10297,7 +10125,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R2</Name>
+    <Name>B6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10383,7 +10211,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R2</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10469,7 +10297,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>R2</Name>
+    <Name>B6</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10512,7 +10340,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>L7</Name>
+    <Name>B</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10555,7 +10383,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>K6</Name>
+    <Name>A</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10598,50 +10426,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
-    <UserModified xsi:nil="true" />
-    <Airport_Id>1641</Airport_Id>
-    <Airport_ICAO>YSBK</Airport_ICAO>
-  </SerializablePath>
-  <SerializablePath>
-    <TaxiPts>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.9196625</Latitude>
-          <Longitude>150.9899</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-      <SerializableTaxiPt>
-        <Type>Normal</Type>
-        <Reverse>false</Reverse>
-        <Radius xsi:nil="true" />
-        <Heading xsi:nil="true" />
-        <PushbackType xsi:nil="true" />
-        <ParkType xsi:nil="true" />
-        <UserModified xsi:nil="true" />
-        <Airport_Id>1641</Airport_Id>
-        <Airport_ICAO>YSBK</Airport_ICAO>
-        <Position>
-          <Latitude>-33.91886</Latitude>
-          <Longitude>150.98938</Longitude>
-        </Position>
-      </SerializableTaxiPt>
-    </TaxiPts>
-    <Id>467588</Id>
-    <Type>Taxi</Type>
-    <SurfaceType>Asphalt</SurfaceType>
-    <Width>18.288</Width>
-    <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10684,7 +10469,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>H2</Name>
+    <Name>H</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10727,7 +10512,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10770,7 +10555,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10813,7 +10598,7 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
@@ -10912,7 +10697,222 @@
     <SurfaceType>Asphalt</SurfaceType>
     <Width>18.288</Width>
     <WeightLimit>500000</WeightLimit>
-    <Name>A2</Name>
+    <Name>K</Name>
+    <UserModified xsi:nil="true" />
+    <Airport_Id>1641</Airport_Id>
+    <Airport_ICAO>YSBK</Airport_ICAO>
+  </SerializablePath>
+  <SerializablePath>
+    <TaxiPts>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.92173</Latitude>
+          <Longitude>150.983215</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.921566</Latitude>
+          <Longitude>150.982574</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+    </TaxiPts>
+    <Id>467596</Id>
+    <Type>Taxi</Type>
+    <SurfaceType>Asphalt</SurfaceType>
+    <Width>18.288</Width>
+    <WeightLimit>500000</WeightLimit>
+    <Name>B</Name>
+    <UserModified xsi:nil="true" />
+    <Airport_Id>1641</Airport_Id>
+    <Airport_ICAO>YSBK</Airport_ICAO>
+  </SerializablePath>
+  <SerializablePath>
+    <TaxiPts>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.91806</Latitude>
+          <Longitude>150.986938</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.9190178</Latitude>
+          <Longitude>150.986908</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+    </TaxiPts>
+    <Id>467597</Id>
+    <Type>Taxi</Type>
+    <SurfaceType>Asphalt</SurfaceType>
+    <Width>18.288</Width>
+    <WeightLimit>500000</WeightLimit>
+    <Name>C</Name>
+    <UserModified xsi:nil="true" />
+    <Airport_Id>1641</Airport_Id>
+    <Airport_ICAO>YSBK</Airport_ICAO>
+  </SerializablePath>
+  <SerializablePath>
+    <TaxiPts>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.9198341</Latitude>
+          <Longitude>150.995926</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.91993</Latitude>
+          <Longitude>150.996124</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+    </TaxiPts>
+    <Id>467598</Id>
+    <Type>Taxi</Type>
+    <SurfaceType>Asphalt</SurfaceType>
+    <Width>18.288</Width>
+    <WeightLimit>500000</WeightLimit>
+    <Name>N</Name>
+    <UserModified xsi:nil="true" />
+    <Airport_Id>1641</Airport_Id>
+    <Airport_ICAO>YSBK</Airport_ICAO>
+  </SerializablePath>
+  <SerializablePath>
+    <TaxiPts>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.9194527</Latitude>
+          <Longitude>150.995575</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.9198341</Latitude>
+          <Longitude>150.995926</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+    </TaxiPts>
+    <Id>467599</Id>
+    <Type>Taxi</Type>
+    <SurfaceType>Asphalt</SurfaceType>
+    <Width>18.288</Width>
+    <WeightLimit>500000</WeightLimit>
+    <Name>P</Name>
+    <UserModified xsi:nil="true" />
+    <Airport_Id>1641</Airport_Id>
+    <Airport_ICAO>YSBK</Airport_ICAO>
+  </SerializablePath>
+  <SerializablePath>
+    <TaxiPts>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.92173</Latitude>
+          <Longitude>150.983215</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+      <SerializableTaxiPt>
+        <Type>Normal</Type>
+        <Reverse>false</Reverse>
+        <Radius xsi:nil="true" />
+        <Heading xsi:nil="true" />
+        <PushbackType xsi:nil="true" />
+        <ParkType xsi:nil="true" />
+        <UserModified xsi:nil="true" />
+        <Airport_Id>1641</Airport_Id>
+        <Airport_ICAO>YSBK</Airport_ICAO>
+        <Position>
+          <Latitude>-33.9234467</Latitude>
+          <Longitude>150.983215</Longitude>
+        </Position>
+      </SerializableTaxiPt>
+    </TaxiPts>
+    <Id>467600</Id>
+    <Type>Taxi</Type>
+    <SurfaceType>Asphalt</SurfaceType>
+    <Width>18.288</Width>
+    <WeightLimit>500000</WeightLimit>
+    <Name>G</Name>
     <UserModified xsi:nil="true" />
     <Airport_Id>1641</Airport_Id>
     <Airport_ICAO>YSBK</Airport_ICAO>
